@@ -72,7 +72,7 @@ Response body
         //2 expected data yarad
 
         JSONObject expectedData = new JSONObject();
-        expectedData.put("bookingid", 24);
+        expectedData.put("bookingid", 240);
         expectedData.put("booking", requestBody);
 
         //3 request gönder dönen respons bodyni yadda saxla
